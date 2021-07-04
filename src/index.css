@@ -1,3 +1,12 @@
+/* Font Ubuntu */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+/* Font Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* Font Courier New */
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Roboto:wght@300&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
